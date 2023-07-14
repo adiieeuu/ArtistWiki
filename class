@@ -1,0 +1,22 @@
+//Adrian Paul D. Peralta
+//BSCpE 1-1
+//ArtistWiki﻿
+using System; 
+using System.Collections.Generic; 
+using System.Diagnostics.CodeAnalysis; 
+using System.Net; 
+using System.Net.Mime;
+
+namespace ArtistWiki
+{
+	class Program
+	{
+		public string? Group { get; set; }
+		public string? Members { get; set; }
+		public string? Chaewon { get; set; }
+		public string? Sakura { get; set; }
+		public string? Yunjin { get; set; }
+		public string? Kazuha { get; set; }
+		public string? Eunchae { get; set; }
+	}
+}
